@@ -1,7 +1,7 @@
 variable "estimated_cost_storage" {
   description = "Estimated cost of the storage gb"
   type        = number
-  default     = 300
+  default     = 20
 }
 
 variable "put_request_count" {
